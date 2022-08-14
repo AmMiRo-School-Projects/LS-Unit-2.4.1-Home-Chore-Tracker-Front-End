@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "formik": "^2.1.4",
+    "react-hook": "^0.0.1",
+    "styled-components": "^5.0.0",
+    "yup": "^0.28.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
